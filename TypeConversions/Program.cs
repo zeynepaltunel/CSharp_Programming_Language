@@ -52,8 +52,8 @@ namespace TypeConversions
             char y = Convert.ToChar(x);
             Console.WriteLine(y);
 
-            Console.WriteLine((int)'H');
-            Console.WriteLine((char)45);
+            //Console.WriteLine((int)'H');
+            //Console.WriteLine((char)45);
 
             #endregion
 
