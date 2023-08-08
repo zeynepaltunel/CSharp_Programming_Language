@@ -5,13 +5,15 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{27C5E0DB-621B-4BE0-9188-2106EABC6F41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{E79935D8-2B4D-4EEC-A535-3519F53BEAFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{E79935D8-2B4D-4EEC-A535-3519F53BEAFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{C323BAF3-1F02-42F3-B932-75930D1B0139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{C323BAF3-1F02-42F3-B932-75930D1B0139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{D873B0A7-1BF0-4805-BD96-D200B8857BDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{D873B0A7-1BF0-4805-BD96-D200B8857BDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatemens", "ConditionalStatemens\ConditionalStatemens.csproj", "{A17020C6-8FAE-44AF-932A-17C2267F1D5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalStatemens", "ConditionalStatemens\ConditionalStatemens.csproj", "{A17020C6-8FAE-44AF-932A-17C2267F1D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_Skeleton", "C#_Skeleton\C#_Skeleton.csproj", "{B52E9653-1CAB-4B96-811F-FEA14A48A3FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A17020C6-8FAE-44AF-932A-17C2267F1D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A17020C6-8FAE-44AF-932A-17C2267F1D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A17020C6-8FAE-44AF-932A-17C2267F1D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52E9653-1CAB-4B96-811F-FEA14A48A3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52E9653-1CAB-4B96-811F-FEA14A48A3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52E9653-1CAB-4B96-811F-FEA14A48A3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52E9653-1CAB-4B96-811F-FEA14A48A3FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
