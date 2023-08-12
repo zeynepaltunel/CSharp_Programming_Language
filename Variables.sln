@@ -29,6 +29,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "References", "References\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsAndObject", "MethodsAndObject\MethodsAndObject.csproj", "{09119DE4-7B79-4BB4-AB51-A04DF418EB3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload", "Overload\Overload.csproj", "{E6557465-8141-40B4-B523-5855DCC28EA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMember", "ClassMember\ClassMember.csproj", "{56D02F80-6CC6-49CA-9299-8CDE506063FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{09119DE4-7B79-4BB4-AB51-A04DF418EB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09119DE4-7B79-4BB4-AB51-A04DF418EB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09119DE4-7B79-4BB4-AB51-A04DF418EB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6557465-8141-40B4-B523-5855DCC28EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6557465-8141-40B4-B523-5855DCC28EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6557465-8141-40B4-B523-5855DCC28EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6557465-8141-40B4-B523-5855DCC28EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D02F80-6CC6-49CA-9299-8CDE506063FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D02F80-6CC6-49CA-9299-8CDE506063FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D02F80-6CC6-49CA-9299-8CDE506063FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D02F80-6CC6-49CA-9299-8CDE506063FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
