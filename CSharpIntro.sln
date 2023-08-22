@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overload", "Overload\Overlo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMember", "ClassMember\ClassMember.csproj", "{56D02F80-6CC6-49CA-9299-8CDE506063FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMember2", "ClassMember2\ClassMember2.csproj", "{4DA8656E-BFF8-4A57-ABE5-B5E1068B4B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMember2", "ClassMember2\ClassMember2.csproj", "{4DA8656E-BFF8-4A57-ABE5-B5E1068B4B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ", "LinQ\LinQ.csproj", "{7B682F04-E030-4A9F-BDA1-CA90F8989838}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{4DA8656E-BFF8-4A57-ABE5-B5E1068B4B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DA8656E-BFF8-4A57-ABE5-B5E1068B4B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DA8656E-BFF8-4A57-ABE5-B5E1068B4B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B682F04-E030-4A9F-BDA1-CA90F8989838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B682F04-E030-4A9F-BDA1-CA90F8989838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B682F04-E030-4A9F-BDA1-CA90F8989838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B682F04-E030-4A9F-BDA1-CA90F8989838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
