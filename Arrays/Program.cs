@@ -37,7 +37,7 @@ namespace Arrays
             numbers[1] = 24;
             numbers[2] = 17;
             numbers[3] = 28;
-            numbers[4] = 35;
+            numbers[4] = 37;
 
             #region IsFixedSize
 
